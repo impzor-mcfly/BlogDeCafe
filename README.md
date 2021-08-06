@@ -1,2 +1,0 @@
-# BlogDeCafe
-Pagina web
